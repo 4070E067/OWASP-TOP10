@@ -35,4 +35,5 @@ Insufficient logging and monitoring, coupled with missing or ineffective integra
 
 
 
-***https://www.owasp.org/index.php/Top_10-2017_Top_10
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10
